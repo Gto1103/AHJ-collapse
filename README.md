@@ -4,6 +4,6 @@
 
 [Migration Guide](https://webpack.js.org/migrate/5/)
 
-Status CI: [![Build status](https://ci.appveyor.com/api/projects/status/wjqoy8a68sa2fhus?svg=true)](https://ci.appveyor.com/project/Gto1103/ahj-dom)
+Status CI: [![Build status](https://ci.appveyor.com/api/projects/status/d0672m09h32vdd6f?svg=true)](https://ci.appveyor.com/project/Gto1103/ahj-collapse)
 
 [Git Pages](https://gto1103.github.io/AHJ-DOM/)
