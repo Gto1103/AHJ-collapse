@@ -6,4 +6,4 @@
 
 Status CI: [![Build status](https://ci.appveyor.com/api/projects/status/d0672m09h32vdd6f?svg=true)](https://ci.appveyor.com/project/Gto1103/ahj-collapse)
 
-[Git Pages](https://gto1103.github.io/AHJ-DOM/)
+[Git Pages](https://gto1103.github.io/AHJ-collapse/)
